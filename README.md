@@ -7,7 +7,7 @@
 &nbsp;
 
 ### Diferença entre var, let e const
-### A diferença entre , , e está em mecanismos de escopo, regras de reatribuição e criação de JavaScript.varletconst
+### A diferença entre , , e está em mecanismos de escopo, regras de reatribuição e criação de JavaScript. var let const
 
 &nbsp;
 
