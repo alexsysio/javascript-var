@@ -1,5 +1,3 @@
-### Diferença entre var, let e const
-### A diferença entre , está em mecanismos de escopo, regras de reatribuição e criação de JavaScript. var let const
 ### Padrões modernos de JavaScript recomendam evitar var para minimizar bugs não intencionais.
 
 <a href="https://github.com/user-attachments/assets/791c7a88-8709-4120-bb2d-12faab3545b2" >
@@ -15,9 +13,13 @@
 | Redeclaração | Pode ser redeclarado | Não pode ser redeclarado | Não pode ser redeclarado |
 | Içamento | Inicializado como indefinido | Içado, não inicializado | Içado, não inicializado |
 
+&nbsp;
+
 <a href="https://github.com/user-attachments/assets/556efb65-119d-4a48-8058-c3e9be1f6e50" >
   <img width="100%" alt="var" src="https://github.com/user-attachments/assets/556efb65-119d-4a48-8058-c3e9be1f6e50" />
 </a>
 
 &nbsp;
 
+> ⚠️ Atenção:
+> A partir do ES6 (2015), é recomendado usar let e const no lugar de var, pois elas respeitam escopo de bloco e evitam comportamentos confusos:
